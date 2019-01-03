@@ -15,8 +15,7 @@
 * nltk
 * xml.etree.cElementTree
 
-
-# test-query-to-feature
+#### test-query-to-feature
 `fileparser.py` is the main script, `fileparser()` input a query term and output relavent articles' feature lists.
 inside the file there are 3 test queries. run the script to return a list object.
 
